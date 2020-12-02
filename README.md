@@ -1,6 +1,6 @@
 # Simple-Discord-bot
 
-A Simple Discord Bot made using discord.js and discord server for messaging and adding users to server 
+A Simple Discord Bot made by using Pure Javascript (discord.js) and discord server for messaging and adding users to server 
 
 ## Introduction
 - I have used npm and installed dependency of discord server to make bot live 24*7
