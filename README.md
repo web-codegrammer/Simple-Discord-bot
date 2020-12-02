@@ -16,4 +16,7 @@ Setup:
 
 [MIT](https://github.com/web-codegrammer/Simple-Discord-bot/blob/main/LICENSE)
 
-Issued to ```Devanshu Vashishtha``` | All Rights Reserved | 2020
+Issued to ```Devanshu Vashishtha``` | Copyright (c) 2020-2021 web-codegrammer All Rights Reserved | 2020
+
+
+ 
