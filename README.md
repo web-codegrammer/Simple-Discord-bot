@@ -7,7 +7,7 @@ A Simple Discord Bot made using discord.js and discord server for messaging and 
 
 - I have also learnt how to send and receive messages using disord server
 
-- Deployed on Heroku join my discord Channel to chat with my bot. 
+- Deployed on Heroku join my discord Channel to chat with my bot. [Channel link](https://discord.gg/GEgmh796)
 
 Setup:
 - run ```npm i && npm start``` or ```npm run devstart```
